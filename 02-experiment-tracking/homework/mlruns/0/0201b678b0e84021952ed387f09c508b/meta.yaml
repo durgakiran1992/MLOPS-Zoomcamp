@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/MLOPS-Zoomcamp/02-experiment-tracking/homework/mlruns/0/0201b678b0e84021952ed387f09c508b/artifacts
+end_time: 1752578178988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0201b678b0e84021952ed387f09c508b
+run_name: abrasive-sow-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752578158583
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/MLOPS-Zoomcamp/02-experiment-tracking/homework/mlruns/0/346045a302334e57b7ea69f61a8f5411/artifacts
+end_time: 1752577785807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 346045a302334e57b7ea69f61a8f5411
+run_name: gifted-finch-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752577755947
+status: 4
+tags: []
+user_id: codespace
