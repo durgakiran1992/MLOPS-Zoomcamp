@@ -2,7 +2,7 @@ FROM agrigorev/zoomcamp-model:mlops-2024-3.10.13-slim
 
 WORKDIR /app
 
-# Copy your scoring script into the image
+## Copy your scoring script into the image
 COPY module4-homework.py .
 
 # Install dependencies
